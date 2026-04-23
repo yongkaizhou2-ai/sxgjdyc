@@ -1,0 +1,6 @@
+{
+    "stores": [
+        {"id": "store1", "coordinates": {"x": 10, "y": 20}},
+        {"id": "store2", "coordinates": {"x": 30, "y": 40}}
+    ]
+}
